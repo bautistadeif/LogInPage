@@ -1,0 +1,84 @@
+<<<<<<< SEARCH
+    <title>Simple Auth</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        
+        body {
+            background-color: #d2b48c; /* khaki color */
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 350px;
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #5a3921; /* dark coffee brown */
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #5a3921;
+        }
+        
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #d2b48c;
+            border-radius: 4px;
+        }
+        
+        button {
+            background-color: #5a3921;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            width: 100%;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        
+        button:hover {
+            background-color: #3e2723;
+        }
+        
+        .switch-form {
+            text-align: center;
+            margin-top: 20px;
+            color: #5a3921;
+        }
+        
+        .switch-form a {
+            color: #5a3921;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        
+        .switch-form a:hover {
+            text-decoration: underline;
+        }
+    </style>
+=======
+    <title>Simple Auth</title>
+    <link rel="stylesheet" href="styles.css">
+>>>>>>> REPLACE
